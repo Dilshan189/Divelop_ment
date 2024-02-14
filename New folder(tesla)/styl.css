@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.d1{
+    width: 100vw;
+    height: 52px;
+    font-size: 18px;
+    color: black;
+    font-family:"Gothom SSm";
+    font-weight: 300;
+    text-align: center;
+    margin-top: 09px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+    
+}
+
+.body{
+    margin: 0;
+}
+
+.a1{
+    color: black;
+    text-underline-offset: 3px;
+    
+    
+}
+
+.d2{
+    width: 100vw;
+    height: 92vh;
+    background-image:url(background.jpeg) ;
+    background-size: cover;
+    background-position: y -152px;
+
+}
+
+.logo{
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 22px;
+}
+
+.list1{
+    list-style: none;
+    margin-left: 400px;
+    margin-top: -18px;
+}
+
+.li1{
+    display:inline;
+    font-size: 14px;
+    font-family: "GOtham SSm";
+    margin-left: 30px;
+    font-weight: 500;
+
+}
+
+.list2{
+    list-style: none;
+    margin-left: 180px;
+    margin-top: -18px;
+
+}
+
+.d3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 50px;
+    font-family: "Gotham SSm";
+    font-weight: 300;
+}
+
+.d4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: "Gotham SSm";
+    font-weight: 300;
+}
+
+.d5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    background-image: none;
+    box-shadow: 15px;
+    margin-left: 100px;
+
+}
+
+
+.b1{
+    width: 220px;
+    height: 35px;
+    background-color: rgb(59,59,59);
+    font-size: 14px;
+    color: white;
+    font-family: "Gotham SSm";
+    font-weight: 600;
+    border-style:none;
+    border-radius: 3px;
+    margin-top: auto;
+    cursor: pointer;
+    box-shadow: 15px;
+}
+
+.b2{
+    width: 220px;
+    height: 35px;
+    background-color: rgb(240,238,238,0.719);
+    font-size: 14px;
+    color:black;
+    font-family: "Gotham SSm";
+    font-weight: 300;
+    border-style:none;
+    border-radius: 3px;
+    margin-top: 110px;
+    margin-left: 10px;
+    cursor: pointer;  
+    text-underline-offset: 3px;
+
+}
